@@ -11,7 +11,7 @@ public class HelloWorld {
         String name = scanner.nextLine();
 
         // Print personalized message
-        System.out.println("Nice to meet you, " + name + "!");
+        System.out.println("Nice to meet you, " + Vedanth + "!");
         
         scanner.close();
     }
