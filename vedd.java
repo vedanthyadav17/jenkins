@@ -5,14 +5,5 @@ public class vedd {
         // Print a message
         System.out.println("Hello, World!");
 
-        // Take user input
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter your name: ");
-        String name = scanner.nextLine();
-
-        // Print personalized message
-        System.out.println("Nice to meet you, " + name + "!");
-        
-        scanner.close();
     }
 }
