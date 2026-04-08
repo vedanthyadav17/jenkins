@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld {
+public class vedd {
     public static void main(String[] args) {
         // Print a message
         System.out.println("Hello, World!");
@@ -11,7 +11,7 @@ public class HelloWorld {
         String name = scanner.nextLine();
 
         // Print personalized message
-        System.out.println("Nice to meet you, " + Vedanth + "!");
+        System.out.println("Nice to meet you, " + name + "!");
         
         scanner.close();
     }
